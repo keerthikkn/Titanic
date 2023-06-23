@@ -1,4 +1,5 @@
 # Titanic ML Model
+![image](https://github.com/keerthikkn/Titanic_ML_Model/assets/42544473/ac93b403-bd41-4a5f-9251-4ca230c18f65)
 
 ## Overview
 This project contains a machine learning model that predicts the survival of passengers aboard the Titanic. The model is trained on a dataset that includes various passenger attributes such as age, gender, class, and fare. The goal is to use this information to determine whether a passenger survived or not.
@@ -32,7 +33,7 @@ To install the required dependencies, run the following command:
 pip install -r requirements.txt
 ```
 
-##Usage
+## Usage
 To use the Titanic ML model, follow these steps:
 
 1. Clone this repository to your local machine or download the ZIP file and extract it.
@@ -49,6 +50,11 @@ To use the Titanic ML model, follow these steps:
 
 7. Once the model is trained, you can use it to make predictions on new data.
 
+## model performance
+![image](https://github.com/keerthikkn/Titanic_ML_Model/assets/42544473/13144946-8ce8-46a2-8abf-e3e3ac86bb8c)
+
+**1 - survived**
+**0 - not survived**
 ## Further Improvements
 Here are some potential improvements that can be made to enhance the model:
 
@@ -63,4 +69,5 @@ Here are some potential improvements that can be made to enhance the model:
 * Consider ensemble methods such as random forests or gradient boosting to improve the model's accuracy.
 
 ## Conclusion
+
 The Titanic ML model is a useful tool for predicting the survival of passengers aboard the Titanic. By leveraging machine learning techniques, it takes into account various passenger attributes to make accurate predictions. Feel free to explore the project, experiment with the code, and make improvements to achieve even better results.
