@@ -41,7 +41,7 @@ To use the Titanic ML model, follow these steps:
 
 3. Install the required dependencies using the command mentioned above.
 
-4. Open the titanic_ml_model.ipynb file in Jupyter Notebook.
+4. Open the titanic_ml.ipynb file in Jupyter Notebook.
 
 5. Run the notebook cells one by one to execute the code.
 
